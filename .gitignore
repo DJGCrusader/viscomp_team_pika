@@ -1,0 +1,4 @@
+#ignore the images and annotations
+/viscomp/test
+/train
+/viscomp
