@@ -1,0 +1,6 @@
+integrate trainCascadeObjectDetector() matlab function to identify images.
+
+The plan is to use mixture of techniques since there is not time penalty for our the competition. 
+Take the aggregate score from the all techniques mwahahaha ( evil laugh)
+
+-vim  expect typos
