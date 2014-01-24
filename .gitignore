@@ -3,7 +3,7 @@
 /train
 /viscomp
 /features
-./CarData/TestImages
-./CarData/TestImages_Scale
-./CarData/TrainImages
+/CarData/TestImages
+/CarData/TestImages_Scale
+/CarData/TrainImages
 
